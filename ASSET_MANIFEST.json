@@ -1,0 +1,363 @@
+{
+  "version": "1.0.0-preview.1",
+  "assets": [
+    {
+      "id": "cert-1",
+      "path": "assets/evidence/public/cert-1.png",
+      "mime": "image/png",
+      "bytes": 1173715,
+      "sha256": "fd3625c89e934f61183aa2225c8a66c24d48d0423f60f345b2ed8249bf74e8cd",
+      "width": 1600,
+      "height": 1180,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-3",
+      "path": "assets/evidence/public/cert-3.png",
+      "mime": "image/png",
+      "bytes": 1589080,
+      "sha256": "aa0948fecf0c4ffac640dad1ef37d990611b6b400a90d7927e34d2d9f7e09b7f",
+      "width": 1800,
+      "height": 1362,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-5",
+      "path": "assets/evidence/public/cert-5.png",
+      "mime": "image/png",
+      "bytes": 1630897,
+      "sha256": "89b2ff3300f921ff1d766ce4369d3c292bdb329f3fb667405f0fea35c6a15b9c",
+      "width": 1231,
+      "height": 1848,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-9",
+      "path": "assets/evidence/public/cert-9.png",
+      "mime": "image/png",
+      "bytes": 3997023,
+      "sha256": "800db364d0a9e6d57cc7e15aaf0c0644864888121d359c8469b42701ea4a82a4",
+      "width": 1800,
+      "height": 1288,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-11",
+      "path": "assets/evidence/public/cert-11.png",
+      "mime": "image/png",
+      "bytes": 2586266,
+      "sha256": "35c35ca256d7bdc0fb84e2c668867f44c679ea115d072d0f9802fc528f7668e3",
+      "width": 1800,
+      "height": 1322,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-15",
+      "path": "assets/evidence/public/cert-15.png",
+      "mime": "image/png",
+      "bytes": 313130,
+      "sha256": "cd4d947aaf3e7edcee46d0b0909efcf69399d1a1f104224f1e14951365e6d03f",
+      "width": 1600,
+      "height": 1285,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-17",
+      "path": "assets/evidence/public/cert-17.png",
+      "mime": "image/png",
+      "bytes": 1875674,
+      "sha256": "a06bd96f0c083f45531752aa350666ab1f98819e70d74571e6789733272e07f3",
+      "width": 1800,
+      "height": 1399,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-19",
+      "path": "assets/evidence/public/cert-19.png",
+      "mime": "image/png",
+      "bytes": 2284182,
+      "sha256": "2f3d8f0b90aa267bdeec4dbeb12e28592f3a26c6f5b23a91ad5f4edcbe842aad",
+      "width": 1600,
+      "height": 1255,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-21",
+      "path": "assets/evidence/public/cert-21.png",
+      "mime": "image/png",
+      "bytes": 289903,
+      "sha256": "1b55e52a3f32e6f88a657cb51586bd76c6a28e4f33bc1eaf88a60b7f93debf75",
+      "width": 1600,
+      "height": 1285,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-23",
+      "path": "assets/evidence/public/cert-23.png",
+      "mime": "image/png",
+      "bytes": 2546435,
+      "sha256": "fb6677c587700596235938ec3feb21d3c2ddbb397beee85552bff34f7c1c683c",
+      "width": 1600,
+      "height": 1175,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-25",
+      "path": "assets/evidence/public/cert-25.png",
+      "mime": "image/png",
+      "bytes": 1334007,
+      "sha256": "6da40522261c40dcc1e7e38229c94958e9b747efd4e97367e3e7bfd2a485e788",
+      "width": 1800,
+      "height": 1297,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-27",
+      "path": "assets/evidence/public/cert-27.png",
+      "mime": "image/png",
+      "bytes": 2583024,
+      "sha256": "f591106c6c0b078efe587fab67553b5292cdf7228a2db3bd35c156c14f2d285d",
+      "width": 1600,
+      "height": 1175,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-29",
+      "path": "assets/evidence/public/cert-29.png",
+      "mime": "image/png",
+      "bytes": 669346,
+      "sha256": "7aea2c876cfbed9f70dc03e8356f9487bcf108f99a5ec144d5ce8ab3cc6b9c12",
+      "width": 1600,
+      "height": 1180,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-31",
+      "path": "assets/evidence/public/cert-31.png",
+      "mime": "image/png",
+      "bytes": 1310542,
+      "sha256": "29710b9c1ad7e058cde55d61008f7ecf2d98c8eec4a407be6a27477bba4b683a",
+      "width": 1800,
+      "height": 1338,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "cert-new",
+      "path": "assets/evidence/public/cert-new.png",
+      "mime": "image/png",
+      "bytes": 2133036,
+      "sha256": "1a2ab714c7a3da45b4ab0d5c5bd0461b2449f8d2bff77ec411c46fa5ecd9de56",
+      "width": 1280,
+      "height": 1859,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "journal-letter",
+      "path": "assets/evidence/public/journal-letter.png",
+      "mime": "image/png",
+      "bytes": 591654,
+      "sha256": "82921d5718f21d1aa458fd3bd5b9d6fcc9c18faa2c374dd3f6c7095a94be8a7e",
+      "width": 1160,
+      "height": 1548,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "conference-letter",
+      "path": "assets/evidence/public/conference-letter.png",
+      "mime": "image/png",
+      "bytes": 321840,
+      "sha256": "26235cdb0972a47503cce79062d41a65ecccde5238ae58293e0ed12ce8e4c6b6",
+      "width": 1160,
+      "height": 1548,
+      "kind": "public-document-display-copy",
+      "metadataKeys": []
+    },
+    {
+      "id": "risk-tree",
+      "path": "assets/images/risk-tree.jpg",
+      "mime": "image/jpeg",
+      "bytes": 268483,
+      "sha256": "087ca95be400cd9bd04e478d836a03a149b69ca50fd6630f970b9abc637056e8",
+      "width": 1920,
+      "height": 1080,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "risk-framework",
+      "path": "assets/images/risk-framework.jpg",
+      "mime": "image/jpeg",
+      "bytes": 412734,
+      "sha256": "7b16546ea59e08e7fe53d080407dfc0826097abdd4615a5f1915c645d88c80ee",
+      "width": 1920,
+      "height": 1080,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "intervention-tree",
+      "path": "assets/images/intervention-tree.jpg",
+      "mime": "image/jpeg",
+      "bytes": 273338,
+      "sha256": "a7258d01909f0a8e54ea3514b0da82ff084ae55a400e246cd09be6eb5ea63e58",
+      "width": 1920,
+      "height": 1080,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "battery-framework",
+      "path": "assets/images/battery-framework.jpg",
+      "mime": "image/jpeg",
+      "bytes": 323432,
+      "sha256": "4040af6d906a5c984059f6f531ae7d894a8a2c84540a72c59a75a80edee36f2f",
+      "width": 1920,
+      "height": 1080,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "battery-explainer",
+      "path": "assets/images/battery-explainer.jpg",
+      "mime": "image/jpeg",
+      "bytes": 320172,
+      "sha256": "cafaf19d0228ad3d610780cba9f1604b19231a3d08ef038a2d1e99929d5e8cdd",
+      "width": 1920,
+      "height": 1080,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "battery-temperature",
+      "path": "assets/images/battery-temperature.jpg",
+      "mime": "image/jpeg",
+      "bytes": 173355,
+      "sha256": "e48bc7968391dfb68b4687ca0442538739816c4e93bb996d5e63412fef582375",
+      "width": 2200,
+      "height": 746,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "assembly",
+      "path": "assets/images/assembly.jpg",
+      "mime": "image/jpeg",
+      "bytes": 143996,
+      "sha256": "f93484369664e711aa25c03e38ea8a39661ebafa527e03b9b979fbf1353adfb1",
+      "width": 1340,
+      "height": 808,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "unity-scene",
+      "path": "assets/images/unity-scene.jpg",
+      "mime": "image/jpeg",
+      "bytes": 358677,
+      "sha256": "1797fcfe59e0da64d6d98c6d6866660f73633c7698507ffbf7502b8cb84213fe",
+      "width": 1920,
+      "height": 1189,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "unity-interaction",
+      "path": "assets/images/unity-interaction.jpg",
+      "mime": "image/jpeg",
+      "bytes": 761672,
+      "sha256": "083e5962b61c1f438da79d82805573e83b9378e6f803a4d216a6d55d843a3472",
+      "width": 1920,
+      "height": 1201,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "unity-editor",
+      "path": "assets/images/unity-editor.jpg",
+      "mime": "image/jpeg",
+      "bytes": 276308,
+      "sha256": "51302732c78c3d40220880861be8b09b3f6b610cabf79a3d09594b3397213112",
+      "width": 1679,
+      "height": 986,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
+    },
+    {
+      "id": "concept-scientific-field",
+      "path": "assets/images/concept-scientific-field.png",
+      "mime": "image/png",
+      "bytes": 1787847,
+      "sha256": "e65d21d46db62c854c28029df15069de6de10130e7492a2ec9e0a42d7773fcd4",
+      "width": 1536,
+      "height": 1024,
+      "kind": "project-or-concept-visual",
+      "metadataKeys": []
+    }
+  ]
+}

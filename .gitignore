@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
+node_modules/
+
+# Private handoff and source documents must stay outside the public release.
+PRIVATE_HANDOFF*
+PRIVATE_*
+deployment-review/
+*.zip
+*.7z
+*.rar
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xlsx
+*.pem
+*.key
