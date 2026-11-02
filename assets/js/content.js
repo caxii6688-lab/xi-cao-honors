@@ -242,6 +242,42 @@ window.XI_CAO_CONTENT = {
       "issued": "2025-11"
     },
     {
+      "id": "S03",
+      "category": "scholarships",
+      "year": "2025–26",
+      "title": "Annual Undergraduate Scholarships",
+      "prize": "Five scholarship distinctions",
+      "officialScope": "University · academic year 2025–2026",
+      "projectId": null,
+      "role": "Individual recognition",
+      "certificates": [],
+      "categories": [
+        [
+          "Ideological & moral conduct",
+          "First class"
+        ],
+        [
+          "Academic performance",
+          "Second class"
+        ],
+        [
+          "Innovation",
+          "Second class"
+        ],
+        [
+          "Sports & arts",
+          "Third class"
+        ],
+        [
+          "Outstanding student",
+          "Second class"
+        ]
+      ],
+      "awardStatus": "Confirmed",
+      "evidenceStatus": "pending",
+      "evidenceNote": "Official certificate pending issuance. Supporting documentation will be added once available."
+    },
+    {
       "id": "H01",
       "category": "campus",
       "year": "2023–24",
@@ -436,21 +472,21 @@ window.XI_CAO_CONTENT = {
   "verificationDate": "2026-10-29"
 };
 window.XI_CAO_ASSETS = {
-  "cert-1": "./assets/evidence/public/cert-1.png",
-  "cert-3": "./assets/evidence/public/cert-3.png",
-  "cert-5": "./assets/evidence/public/cert-5.png",
-  "cert-9": "./assets/evidence/public/cert-9.png",
-  "cert-11": "./assets/evidence/public/cert-11.png",
-  "cert-15": "./assets/evidence/public/cert-15.png",
-  "cert-17": "./assets/evidence/public/cert-17.png",
-  "cert-19": "./assets/evidence/public/cert-19.png",
-  "cert-21": "./assets/evidence/public/cert-21.png",
-  "cert-23": "./assets/evidence/public/cert-23.png",
-  "cert-25": "./assets/evidence/public/cert-25.png",
-  "cert-27": "./assets/evidence/public/cert-27.png",
-  "cert-29": "./assets/evidence/public/cert-29.png",
-  "cert-31": "./assets/evidence/public/cert-31.png",
-  "cert-new": "./assets/evidence/public/cert-new.png",
+  "cert-1": "./assets/evidence/awards/cert-1.png",
+  "cert-3": "./assets/evidence/awards/cert-3.jpg",
+  "cert-5": "./assets/evidence/awards/cert-5.jpg",
+  "cert-9": "./assets/evidence/awards/cert-9.jpg",
+  "cert-11": "./assets/evidence/awards/cert-11.jpg",
+  "cert-15": "./assets/evidence/awards/cert-15.png",
+  "cert-17": "./assets/evidence/awards/cert-17.jpg",
+  "cert-19": "./assets/evidence/awards/cert-19.png",
+  "cert-21": "./assets/evidence/awards/cert-21.png",
+  "cert-23": "./assets/evidence/awards/cert-23.png",
+  "cert-25": "./assets/evidence/awards/cert-25.jpg",
+  "cert-27": "./assets/evidence/awards/cert-27.png",
+  "cert-29": "./assets/evidence/awards/cert-29.png",
+  "cert-31": "./assets/evidence/awards/cert-31.jpg",
+  "cert-new": "./assets/evidence/awards/cert-new.jpg",
   "journal-letter": "./assets/evidence/public/journal-letter.png",
   "conference-letter": "./assets/evidence/public/conference-letter.png",
   "risk-tree": "./assets/images/risk-tree.jpg",

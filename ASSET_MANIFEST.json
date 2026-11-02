@@ -3,168 +3,231 @@
   "assets": [
     {
       "id": "cert-1",
-      "path": "assets/evidence/public/cert-1.png",
+      "path": "assets/evidence/awards/cert-1.png",
       "mime": "image/png",
-      "bytes": 1173715,
-      "sha256": "fd3625c89e934f61183aa2225c8a66c24d48d0423f60f345b2ed8249bf74e8cd",
-      "width": 1600,
-      "height": 1180,
-      "kind": "public-document-display-copy",
+      "bytes": 2349649,
+      "sha256": "cea40084951b5e1abc9f2ee5f9e16008fda7079d72c83829d277b7baf509642a",
+      "width": 2400,
+      "height": 1697,
+      "kind": "owner-approved-award-certificate",
       "metadataKeys": []
     },
     {
       "id": "cert-3",
-      "path": "assets/evidence/public/cert-3.png",
-      "mime": "image/png",
-      "bytes": 1589080,
-      "sha256": "aa0948fecf0c4ffac640dad1ef37d990611b6b400a90d7927e34d2d9f7e09b7f",
-      "width": 1800,
-      "height": 1362,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-3.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1138325,
+      "sha256": "ad53cde3491a4acdef46c3dc6125408d640cc15fd53d91795ed7014533ff6420",
+      "width": 2976,
+      "height": 2172,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "exif"
+      ]
     },
     {
       "id": "cert-5",
-      "path": "assets/evidence/public/cert-5.png",
-      "mime": "image/png",
-      "bytes": 1630897,
-      "sha256": "89b2ff3300f921ff1d766ce4369d3c292bdb329f3fb667405f0fea35c6a15b9c",
-      "width": 1231,
-      "height": 1848,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-5.jpg",
+      "mime": "image/jpeg",
+      "bytes": 744533,
+      "sha256": "316eb56bd769c1e70496ba41d472d3e9b0e21793a49286fcacb2642817c9f658",
+      "width": 2232,
+      "height": 3264,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "exif",
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
     },
     {
       "id": "cert-9",
-      "path": "assets/evidence/public/cert-9.png",
-      "mime": "image/png",
-      "bytes": 3997023,
-      "sha256": "800db364d0a9e6d57cc7e15aaf0c0644864888121d359c8469b42701ea4a82a4",
-      "width": 1800,
-      "height": 1288,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-9.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1691973,
+      "sha256": "b11a9be48498cbb1003e1bb71f69cb294929b916b78e22344e42e8b83f225478",
+      "width": 3264,
+      "height": 2248,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "exif",
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version",
+        "xmp"
+      ]
     },
     {
       "id": "cert-11",
-      "path": "assets/evidence/public/cert-11.png",
-      "mime": "image/png",
-      "bytes": 2586266,
-      "sha256": "35c35ca256d7bdc0fb84e2c668867f44c679ea115d072d0f9802fc528f7668e3",
-      "width": 1800,
-      "height": 1322,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-11.jpg",
+      "mime": "image/jpeg",
+      "bytes": 699694,
+      "sha256": "df2af75be8ba9c07d79582a729a5265ceeb55dd7ec417575e5b033586b654c20",
+      "width": 2436,
+      "height": 1724,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "exif",
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version",
+        "photoshop"
+      ]
     },
     {
       "id": "cert-15",
-      "path": "assets/evidence/public/cert-15.png",
+      "path": "assets/evidence/awards/cert-15.png",
       "mime": "image/png",
-      "bytes": 313130,
-      "sha256": "cd4d947aaf3e7edcee46d0b0909efcf69399d1a1f104224f1e14951365e6d03f",
-      "width": 1600,
-      "height": 1285,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "bytes": 325897,
+      "sha256": "c1ccf267ae19ac86cb6e70f3631f898d3b85efe491f0bcf16616b474e3249617",
+      "width": 2400,
+      "height": 1855,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi"
+      ]
     },
     {
       "id": "cert-17",
-      "path": "assets/evidence/public/cert-17.png",
-      "mime": "image/png",
-      "bytes": 1875674,
-      "sha256": "a06bd96f0c083f45531752aa350666ab1f98819e70d74571e6789733272e07f3",
-      "width": 1800,
-      "height": 1399,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-17.jpg",
+      "mime": "image/jpeg",
+      "bytes": 621436,
+      "sha256": "a15138e7dc9727e8b28dd5006d281399acf49d7805c4382d6032d59c4eb69795",
+      "width": 2984,
+      "height": 2240,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "exif",
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version",
+        "photoshop"
+      ]
     },
     {
       "id": "cert-19",
-      "path": "assets/evidence/public/cert-19.png",
+      "path": "assets/evidence/awards/cert-19.png",
       "mime": "image/png",
-      "bytes": 2284182,
-      "sha256": "2f3d8f0b90aa267bdeec4dbeb12e28592f3a26c6f5b23a91ad5f4edcbe842aad",
-      "width": 1600,
-      "height": 1255,
-      "kind": "public-document-display-copy",
+      "bytes": 5916870,
+      "sha256": "5f7fcc95aeee75ac4d6469541eccb28183f78eacedff4e94c6342c104aefe003",
+      "width": 2400,
+      "height": 1810,
+      "kind": "owner-approved-award-certificate",
       "metadataKeys": []
     },
     {
       "id": "cert-21",
-      "path": "assets/evidence/public/cert-21.png",
+      "path": "assets/evidence/awards/cert-21.png",
       "mime": "image/png",
-      "bytes": 289903,
-      "sha256": "1b55e52a3f32e6f88a657cb51586bd76c6a28e4f33bc1eaf88a60b7f93debf75",
-      "width": 1600,
-      "height": 1285,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "bytes": 291385,
+      "sha256": "7144aaba647b02c90c401ac5f3babae04de6500e813153814a3f766d5a003873",
+      "width": 2400,
+      "height": 1855,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi"
+      ]
     },
     {
       "id": "cert-23",
-      "path": "assets/evidence/public/cert-23.png",
+      "path": "assets/evidence/awards/cert-23.png",
       "mime": "image/png",
-      "bytes": 2546435,
-      "sha256": "fb6677c587700596235938ec3feb21d3c2ddbb397beee85552bff34f7c1c683c",
-      "width": 1600,
-      "height": 1175,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "bytes": 5096299,
+      "sha256": "832c0bb10f71805cef9af02ac8d83fbdaf42e2ead6591530a95bd23f4b2a6f29",
+      "width": 2400,
+      "height": 1690,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi"
+      ]
     },
     {
       "id": "cert-25",
-      "path": "assets/evidence/public/cert-25.png",
-      "mime": "image/png",
-      "bytes": 1334007,
-      "sha256": "6da40522261c40dcc1e7e38229c94958e9b747efd4e97367e3e7bfd2a485e788",
-      "width": 1800,
-      "height": 1297,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-25.jpg",
+      "mime": "image/jpeg",
+      "bytes": 363425,
+      "sha256": "ba7392b847fedcd4a9064b566e52ba28b3b31462280dc8e371f9359b6cc55076",
+      "width": 2468,
+      "height": 1712,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
     },
     {
       "id": "cert-27",
-      "path": "assets/evidence/public/cert-27.png",
+      "path": "assets/evidence/awards/cert-27.png",
       "mime": "image/png",
-      "bytes": 2583024,
-      "sha256": "f591106c6c0b078efe587fab67553b5292cdf7228a2db3bd35c156c14f2d285d",
-      "width": 1600,
-      "height": 1175,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "bytes": 6187232,
+      "sha256": "e4a71fcd190643db105ea57d9a9a139518f81ddec6932e11d7c890ce77d9712d",
+      "width": 2400,
+      "height": 1690,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi"
+      ]
     },
     {
       "id": "cert-29",
-      "path": "assets/evidence/public/cert-29.png",
+      "path": "assets/evidence/awards/cert-29.png",
       "mime": "image/png",
-      "bytes": 669346,
-      "sha256": "7aea2c876cfbed9f70dc03e8356f9487bcf108f99a5ec144d5ce8ab3cc6b9c12",
-      "width": 1600,
-      "height": 1180,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "bytes": 466847,
+      "sha256": "b26c0f9f3220b48773fbaf419b07d1d73b17d9a5df57ccd15fcd1834c5cd5ea0",
+      "width": 2400,
+      "height": 1698,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi"
+      ]
     },
     {
       "id": "cert-31",
-      "path": "assets/evidence/public/cert-31.png",
-      "mime": "image/png",
-      "bytes": 1310542,
-      "sha256": "29710b9c1ad7e058cde55d61008f7ecf2d98c8eec4a407be6a27477bba4b683a",
-      "width": 1800,
-      "height": 1338,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "path": "assets/evidence/awards/cert-31.jpg",
+      "mime": "image/jpeg",
+      "bytes": 373039,
+      "sha256": "3120452de9b31f49022e01dad14c35405f98f47f365ba976bbd9b5e0d6198458",
+      "width": 2416,
+      "height": 1731,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version"
+      ]
     },
     {
       "id": "cert-new",
-      "path": "assets/evidence/public/cert-new.png",
-      "mime": "image/png",
-      "bytes": 2133036,
-      "sha256": "1a2ab714c7a3da45b4ab0d5c5bd0461b2449f8d2bff77ec411c46fa5ecd9de56",
+      "path": "assets/evidence/awards/cert-new.jpg",
+      "mime": "image/jpeg",
+      "bytes": 524160,
+      "sha256": "9f2cd8f642a02ca91535cded3e1b6fdab94b14ecae0fbcd601c05df4aa488cc2",
       "width": 1280,
-      "height": 1859,
-      "kind": "public-document-display-copy",
-      "metadataKeys": []
+      "height": 1811,
+      "kind": "owner-approved-award-certificate",
+      "metadataKeys": [
+        "dpi",
+        "exif",
+        "jfif",
+        "jfif_density",
+        "jfif_unit",
+        "jfif_version",
+        "photoshop"
+      ]
     },
     {
       "id": "journal-letter",
